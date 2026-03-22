@@ -28,7 +28,7 @@ docker compose up --build
 
 ### 🌍 Acessos
 
-* Frontend: http://localhost:3000
+* Frontend: http://localhost:5173
 * Backend: http://localhost:8080
 * Banco: localhost:5433
 
